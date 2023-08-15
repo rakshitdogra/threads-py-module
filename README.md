@@ -26,8 +26,7 @@ The following disclaimer outlines the terms and conditions for the use of the so
 
 By using the software or code, you acknowledge and agree to abide by the terms of this disclaimer. If you do not agree with these terms, you are prohibited from using the software or code.
 
-For inquiries or further information, please contact [Your Contact Information].
+For inquiries or further information, please contact rakshitdogra.work@gmail.com
 
-RAKSHIT DOGRA
+RAKSHIT DOGRA <br>
 15 AUGUST 2023
----
