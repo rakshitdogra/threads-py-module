@@ -1,4 +1,5 @@
-# Threads Py Module
+# Threads Py Module (Unofficial)
+PLs nO lEgAl nOtIcE mEtA
 
 <img src="https://github.com/rakshitdogra/threads-py-module/assets/97903868/6d883c2c-4dcd-44a5-92cf-66310897290d"  width="300px" height="300px">
 
