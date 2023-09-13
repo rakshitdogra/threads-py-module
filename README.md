@@ -1,7 +1,7 @@
 # Threads Py Module (Unofficial)
 PLs nO lEgAl nOtIcE mEtA
 
-<img src="https://github.com/rakshitdogra/threads-py-module/assets/97903868/6d883c2c-4dcd-44a5-92cf-66310897290d"  width="300px" height="300px">
+![Untitled (20)](https://github.com/rakshitdogra/threads-py-module/assets/97903868/2b36cbdf-1df1-4031-995c-b7b5b4f9a2a9 )
 
 A package that allows to scrape data from threads by meta like images, thread content, profile picture, name and username.
 
